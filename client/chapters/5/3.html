@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Modals with Angular and Ui-Router</title>
+    <link rel="stylesheet" href="css/app.css"/>
+    <script type="text/javascript" src="/assets/angular/jquery.min.js"></script>
+    <script type="text/javascript" src="/assets/angular/angular.min.js"></script>
+    <script type="text/javascript" src="/assets/angular/angular-ui-router.min.js"></script>
+    <script type="text/javascript" src="3.js"></script>
+</head>
+<body data-ng-app="demoApp">
+<div class="content" data-ng-controller="MainController  as main">
+    <h1>{{main.message}}</h1>
+
+    <p data-ng-show="main.status=='START' "> We are Just about to land on promise zone...</p>
+
+    <div data-ng-show="main.status=='PENDING' ">
+        <h4> Loading please wait...</h4>
+        <p> Status: {{main.percentage}} %</p>
+        <img src="/assets/image/spiffygif_30x30.gif"/>
+
+    </div>
+
+    <div data-ng-show="main.status=='DONE' ">
+        <h1>:::TO-DO:::</h1>
+
+        <div data-ng-repeat="item in main.list">
+            <h3>{{item.task}}</h3>
+
+            <p>Time Required:<span style="font-size: x-large">{{item.estimatedTime}} </span></p>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd1852f0-1168-40ad-a570-d1352b13af6f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/media/moxieplayer.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/img/object.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/img/trans.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/LICENSE.TXT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/content.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/example/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/advlist/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/anchor/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/autolink/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/autosave/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/charmap/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/code/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/directionality/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/example/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/example_dependency/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/hr/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/image/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/importcss/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/layer/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/link/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/lists/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/media/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/paste/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/preview/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/print/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/save/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/table/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/template/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/langs/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/skin.ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/skin.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/themes/modern/theme.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/tinymce.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/CHANGES.md" afterPath="$PROJECT_DIR$/client/assets/highlight/CHANGES.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/LICENSE" afterPath="$PROJECT_DIR$/client/assets/highlight/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/README.md" afterPath="$PROJECT_DIR$/client/assets/highlight/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/README.ru.md" afterPath="$PROJECT_DIR$/client/assets/highlight/README.ru.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/highlight.pack.js" afterPath="$PROJECT_DIR$/client/assets/highlight/highlight.pack.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/agate.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/agate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/androidstudio.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/androidstudio.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/arta.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/arta.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/ascetic.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/ascetic.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-cave.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-cave.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-cave.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-cave.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-dune.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-dune.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-dune.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-dune.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-estuary.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-estuary.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-estuary.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-estuary.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-forest.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-forest.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-forest.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-forest.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-heath.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-heath.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-heath.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-heath.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-lakeside.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-lakeside.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-lakeside.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-lakeside.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-plateau.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-plateau.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-plateau.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-plateau.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-savanna.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-savanna.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-savanna.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-savanna.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-seaside.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-seaside.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-seaside.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-seaside.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-sulphurpool.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-sulphurpool.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/atelier-sulphurpool.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/atelier-sulphurpool.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/brown_paper.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/brown_paper.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/brown_papersq.png" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/brown_papersq.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/codepen-embed.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/codepen-embed.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/color-brewer.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/color-brewer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/darkula.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/darkula.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/default.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/default.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/docco.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/docco.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/far.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/far.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/foundation.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/foundation.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/github-gist.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/github-gist.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/github.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/github.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/googlecode.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/googlecode.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/hybrid.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/hybrid.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/idea.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/idea.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/ir_black.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/ir_black.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/kimbie.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/kimbie.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/kimbie.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/kimbie.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/magula.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/magula.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/mono-blue.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/mono-blue.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/monokai.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/monokai.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/monokai_sublime.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/monokai_sublime.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/obsidian.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/obsidian.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/paraiso.dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/paraiso.dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/paraiso.light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/paraiso.light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/pojoaque.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/pojoaque.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/pojoaque.jpg" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/pojoaque.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/railscasts.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/railscasts.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/rainbow.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/rainbow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/school_book.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/school_book.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/school_book.png" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/school_book.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/solarized_dark.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/solarized_dark.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/solarized_light.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/solarized_light.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/sunburst.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/sunburst.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/tomorrow-night-blue.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/tomorrow-night-blue.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/tomorrow-night-bright.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/tomorrow-night-bright.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/tomorrow-night-eighties.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/tomorrow-night-eighties.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/tomorrow-night.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/tomorrow-night.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/tomorrow.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/tomorrow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/vs.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/vs.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/xcode.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/xcode.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/PromisePattern&amp;EventHandling/highlight/styles/zenburn.css" afterPath="$PROJECT_DIR$/client/assets/highlight/styles/zenburn.css" />
+    </list>
+    <ignored path="angular-course-demo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="angular-course-demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2003546" vertical-offset="367" max-vertical-offset="1500">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="truncate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/assets/angular/truncate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/assets/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="992" max-vertical-offset="1620">
+              <caret line="101" column="23" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/chapters/5/1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="450">
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="690">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <element signature="e#299#5082#0" expanded="false" />
+                <element signature="e#321#1146#0" expanded="false" />
+                <element signature="e#1168#2733#0" expanded="false" />
+                <element signature="e#2755#4084#0" expanded="false" />
+                <element signature="e#4106#5064#0" expanded="false" />
+                <element signature="e#5110#6159#0" expanded="false" />
+                <element signature="e#5280#6145#0" expanded="false" />
+                <element signature="e#5302#6127#0" expanded="false" />
+                <element signature="e#6256#6432#0" expanded="false" />
+                <element signature="e#6615#6667#0" expanded="false" />
+                <element signature="e#6706#6830#0" expanded="false" />
+                <element signature="e#6759#6818#0" expanded="false" />
+                <element signature="e#7063#7230#0" expanded="false" />
+                <element signature="e#7143#7220#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="syntex.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/syntex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.5" vertical-offset="129" max-vertical-offset="735">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/chapters/5/4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="450">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/chapters/5/4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/pomise.json" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/js/app.js" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/promise.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/js/1-With-Callback-Hell.js" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/js/2-With-Promise-Pattern.js" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/js/2-PromisePattern&amp;EventHandling.js" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/1-PromisePattern&amp;EventHandling.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/partials/s.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/partials/1-PromisePattern&amp;EventHandling.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/partials/2-PromisePattern&amp;EventHandling.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/4-PromisePattern&amp;EventHandling.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/2-PromisePattern&amp;EventHandling.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/js/3-PromisePattern&amp;EventHandling.js" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/partials/3-PromisePattern&amp;EventHandling.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/partials/4-PromisePattern&amp;EventHandling.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/js/4-PromisePattern&amp;EventHandling.js" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/css/app.css" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/js/1-PromisePattern&amp;EventHandling.js" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/3-PromisePattern&amp;EventHandling.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/chapters/1/1.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/chapters/1/1.js" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/chapters/1/2.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/chapters/1/4.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/chapters/1/3.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/assets/css/app.css" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/index.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/syntex.html" />
+        <option value="$PROJECT_DIR$/PromisePattern&amp;EventHandling/app.js" />
+        <option value="$PROJECT_DIR$/client/syntex.html" />
+        <option value="$PROJECT_DIR$/client/assets/css/app.css" />
+        <option value="$PROJECT_DIR$/client/app.js" />
+        <option value="$PROJECT_DIR$/client/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="24" />
+    <option name="width" value="1307" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinymce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinymce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tinymce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angular-course-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript 1.5" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="LayoutCode.rearrangeEntriesCSS" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/assets" />
+      <recent name="$PROJECT_DIR$/PromisePattern&amp;EventHandling" />
+      <recent name="$PROJECT_DIR$/PromisePattern&amp;EventHandling/assets/angular" />
+      <recent name="$PROJECT_DIR$/PromisePattern&amp;EventHandling/image" />
+      <recent name="$PROJECT_DIR$/PromisePattern&amp;EventHandling/partials" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/PromisePattern&amp;EventHandling/chapters/1" />
+      <recent name="$PROJECT_DIR$/PromisePattern&amp;EventHandling/chapters/1/2" />
+      <recent name="$PROJECT_DIR$/PromisePattern&amp;EventHandling/chapters/1/1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd1852f0-1168-40ad-a570-d1352b13af6f" name="Default" comment="" />
+      <created>1432575384287</created>
+      <option name="number" value="Default" />
+      <updated>1432575384287</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added 2 chapters..">
+      <created>1432671156794</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432671156794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="24" width="1307" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65849924" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23794712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39509955" sideWeight="0.5800933" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24580152" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61408883" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3078101" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5206738" sideWeight="0.41912907" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47166923" sideWeight="0.43856922" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65849924" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39509955" sideWeight="0.5800933" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61408883" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3078101" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5206738" sideWeight="0.41912907" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.68507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24580152" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47166923" sideWeight="0.43856922" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="added 2 chapters.." />
+    <option name="LAST_COMMIT_MESSAGE" value="added 2 chapters.." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/app.js</url>
+          <line>1</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="231" max-vertical-offset="930">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="645">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#299#5082#0" expanded="false" />
+            <element signature="e#321#1146#0" expanded="false" />
+            <element signature="e#1168#2733#0" expanded="false" />
+            <element signature="e#2755#4084#0" expanded="false" />
+            <element signature="e#4106#5064#0" expanded="false" />
+            <element signature="e#5110#6159#0" expanded="false" />
+            <element signature="e#5280#6145#0" expanded="false" />
+            <element signature="e#5302#6127#0" expanded="false" />
+            <element signature="e#6256#6432#0" expanded="false" />
+            <element signature="e#6615#6667#0" expanded="false" />
+            <element signature="e#6706#6830#0" expanded="false" />
+            <element signature="e#6759#6818#0" expanded="false" />
+            <element signature="e#7063#7230#0" expanded="false" />
+            <element signature="e#7143#7220#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="450">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/highlight/styles/vs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="450">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1035">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="450">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="450">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/promise.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="28" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="510">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/promise.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/angular/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="155280">
+          <caret line="27" column="27" selection-start-line="16" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/bootstrap/css/docs.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/highlight/styles/vs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1470">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="628">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1035">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="450">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44701988" vertical-offset="0" max-vertical-offset="604">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/angular/truncate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="450">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/tinymce/js/tinymce/langs/readme.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="599">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/syntex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.5" vertical-offset="129" max-vertical-offset="735">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="992" max-vertical-offset="1620">
+          <caret line="101" column="23" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/chapters/5/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="450">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="690">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#299#5082#0" expanded="false" />
+            <element signature="e#321#1146#0" expanded="false" />
+            <element signature="e#1168#2733#0" expanded="false" />
+            <element signature="e#2755#4084#0" expanded="false" />
+            <element signature="e#4106#5064#0" expanded="false" />
+            <element signature="e#5110#6159#0" expanded="false" />
+            <element signature="e#5280#6145#0" expanded="false" />
+            <element signature="e#5302#6127#0" expanded="false" />
+            <element signature="e#6256#6432#0" expanded="false" />
+            <element signature="e#6615#6667#0" expanded="false" />
+            <element signature="e#6706#6830#0" expanded="false" />
+            <element signature="e#6759#6818#0" expanded="false" />
+            <element signature="e#7063#7230#0" expanded="false" />
+            <element signature="e#7143#7220#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2003546" vertical-offset="367" max-vertical-offset="1500">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

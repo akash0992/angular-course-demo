@@ -1,0 +1,103 @@
+/***/
+/*{*/
+/*box-sizing: border-box;*/
+/*}*/
+
+/*.Modal-backdrop*/
+/*{*/
+/*position: fixed;*/
+/*top: 0px;*/
+/*left: 0px;*/
+/*height:100%;*/
+/*width:100%;*/
+/*background: #000;*/
+/*z-index: 1;*/
+/*opacity: 0.5;*/
+/*}*/
+
+/*.Modal-holder*/
+/*{*/
+/*position: fixed;*/
+/*top: 0px;*/
+/*left: 0px;*/
+/*height:100%;*/
+/*width:100%;*/
+/*background: transparent;*/
+/*z-index: 2;*/
+/*padding: 30px 15px;*/
+/*}*/
+
+/*.Modal-box*/
+/*{*/
+/*margin: 0 auto;*/
+/*width: 100%;*/
+/*background: #fff;*/
+/*padding: 15px;*/
+/*border-radius: 4px;*/
+/*box-shadow: 1px 2px 5px rgba(0,0,0,0.3);*/
+/*position: relative;*/
+/*}*/
+
+/*@media screen and (min-width: 992px)*/
+/*{*/
+/*.Modal-box*/
+/*{*/
+/*width: 50%;*/
+/*padding: 30px;*/
+/*}*/
+/*}*/
+.well-red {
+    background-color: #ff0000;
+    min-width: 50%;
+    min-height: 100%;
+}
+
+.peekaboo {
+    margin-bottom: 0;
+    position: fixed;
+    left: 101%;
+    transition: left 0.6s;
+    background: #eee;
+    width: 50%;
+    top: 0;
+}
+
+.peekaboo.left-50 {
+    left: 50%;
+}
+
+.peekaboo.left-101 {
+    left: 101%;
+}
+
+.shrinker {
+    transition: width 0.6s;
+}
+
+.width-50 {
+
+    width: 50%;
+}
+
+.reset-button {
+    position: fixed;
+    bottom: 50px;
+    padding: 20px;
+    right: 10px;
+}
+
+.btn-xlarge {
+    padding: 10px 20px;
+    font-size: 22px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.padded-menu .btn{
+    padding: 10px 50px 10px 50px;
+}
+.padded-menu ul>li>a{
+    padding: 5px 50px 5px 50px;
+}

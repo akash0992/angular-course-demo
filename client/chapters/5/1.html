@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Modals with Angular and Ui-Router</title>
+    <link rel="stylesheet" href="/assets/css/app.css"/>
+    <script type="text/javascript" src="/assets/angular/jquery.min.js"></script>
+    <script type="text/javascript" src="/assets/angular/angular.min.js"></script>
+    <script type="text/javascript" src="/assets/angular/angular-ui-router.min.js"></script>
+    <script type="text/javascript" src="1.js"></script>
+</head>
+<body data-ng-app="demoApp">
+<div class="content" data-ng-controller="MainController  as main">
+    <h1>{{main.message}}</h1>
+
+    <p id="update" data-ng-show="!main.isVisible"> This will update soon...</p>
+    <div data-ng-show="main.isVisible">
+        <h1>:::TO-DO:::</h1>
+        <div data-ng-repeat="item in main.list">
+            <h3>{{item.task}}</h3>
+
+            <p>Time Required:<span style="font-size: x-large">{{item.estimatedTime}} </span></p>
+        </div>
+    </div>
+</div>
+</body>
+</html>
